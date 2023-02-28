@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.appointment-item-container {
+  height: 100px;
+  width: 300px;
+  border-radius: 15px;
+  padding: 20px;
+  margin-right: 20px;
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+  border-width: 10px;
+  border-color: black;
+}
+
+.title-date {
+  align-self: start;
+}
+
+.button1 {
+  height: 30px;
+  background-color: transparent;
+  border-width: 0px;
+}
